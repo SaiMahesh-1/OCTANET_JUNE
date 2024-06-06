@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bikes Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#race-bikes">Race Bikes</a></li>
+                <li><a href="#road-bikes">Road Bikes</a></li>
+                <li><a href="#electric-bikes">Electric Bikes</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home" class="section">
+        <div class="hero">
+            <h1>Welcome to Bikes Excellence</h1>
+            <p>Discover the best bikes for all terrains and preferences.</p>
+        </div>
+    </section>
+    <div class="p">
+    <section id="race-bikes" class="section">
+        <h2>Race Bikes</h2>
+        <br>
+        <div class="gallery">
+            <img src="C:\Users\NIHARIKA\Documents\123\bike2.jpg" width="20%" >
+            <img src="C:\Users\NIHARIKA\Documents\123\bike3.jpg" width="20%">
+            <!-- Add more images as needed -->
+        </div>
+    </section>
+
+    <section id="road-bikes" class="section">
+        <h2>Road Bikes</h2>
+        <br>
+        <div class="gallery">
+            <img src="C:\Users\NIHARIKA\Documents\123\bike4.avif" width="20%" >
+            <img src="C:\Users\NIHARIKA\Documents\123\bike5.jpg" width="20%" >
+            <!-- Add more images as needed -->
+        </div>
+    </section>
+
+    <section id="electric-bikes" class="section">
+        <h2>Electric Bikes</h2>
+        <br>
+        <div class="gallery">
+            <img src="C:\Users\NIHARIKA\Documents\123\bike6.jpg" width="20%">
+            <img src="C:\Users\NIHARIKA\Documents\123\bike7.jpg" width="20%">
+            <!-- Add more images as needed -->
+        </div>
+    </section>
+</div>
+    <footer>
+        <p>&copy; 2024 Bikes Portfolio. All rights reserved.</p>
+    </footer>
+</body>
+</html>
